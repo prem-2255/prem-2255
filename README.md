@@ -29,6 +29,30 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prem-2255&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Prem's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prem-2255&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-2255&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prem-2255/prem-2255/output/snake.svg" alt="Snake animation eating my contributions" />
+</p>
+
+---
+
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
